@@ -1,6 +1,6 @@
-# Auto game acceptance Dota 2
+# Automation tool for Dota 2
 
-This script automates the process of locating and clicking a specific "Accept" game button in Dota 2 using image recognition.
+This script automates the match acceptance and hero selection processes in Dota 2 using image recognition
 
 
 ## Prerequisites
